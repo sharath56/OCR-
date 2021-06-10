@@ -1,1 +1,1 @@
-# text-speech-conversion
+# OCR (tesseract python)
